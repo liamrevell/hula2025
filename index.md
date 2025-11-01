@@ -1,13 +1,14 @@
 ---
-title: Biol 634
+title: Unlocking the Potential of Phylogenetic Comparative Methods in Ecology, Agriculture, and Nature Conservation
 ---
 
 <link rel="stylesheet" href="assets/style.css">
 
-# Biol 634: Methods in Phylogenetic & Macroevolutionary Analysis (using R)
+# Unlocking the Potential of Phylogenetic Comparative Methods in Ecology, Agriculture, and Nature Conservation
 
-- **Professor:** Dr. Liam J. Revell ([liam.revell@umb.edu](mailto:liam.revell@umb.edu)).
-- **Meeting time & place:** Wednesdays & Fridays from 1-2:15pm, Sep. 3 to Dec. 12, in Wheatley Hall W03-0022.
+- **Instructors:** Dr. Liam Revell ([liam.revell@umb.edu](mailto:liam.revell@umb.edu)) and Dr. Luke Harmon ([lukeh@uidaho.edu](mailto:lukeh@uidaho.edu))
+- **Organizers:** Dr. Tali Berman
+- **Meeting time & place:** .
 - **Zoom meeting room (for online participants):** [https://umassboston.zoom.us/j/93343863686](https://umassboston.zoom.us/j/93343863686) (classes will be recorded, but synchronous participation is strongly encouraged).
 - **Office hours:** 1-2:30pm Mondays, 2:30-4pm Wednesdays, drop-in, & by appointment.
 
