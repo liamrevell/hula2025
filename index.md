@@ -7,17 +7,8 @@ title: Unlocking the Potential of Phylogenetic Comparative Methods in Ecology, A
 # Unlocking the Potential of Phylogenetic Comparative Methods in Ecology, Agriculture, and Nature Conservation
 
 - **Instructors:** Dr. Liam Revell ([liam.revell@umb.edu](mailto:liam.revell@umb.edu)) and Dr. Luke Harmon ([lukeh@uidaho.edu](mailto:lukeh@uidaho.edu))
-- **Organizers:** Dr. Tali Berman
-- **Meeting time & place:** .
-- **Zoom meeting room (for online participants):** [https://umassboston.zoom.us/j/93343863686](https://umassboston.zoom.us/j/93343863686) (classes will be recorded, but synchronous participation is strongly encouraged).
-- **Office hours:** 1-2:30pm Mondays, 2:30-4pm Wednesdays, drop-in, & by appointment.
-
----
-
-## Recommended Texts (no books are required)
-1. Harmon, L. J. 2018. *Phylogenetic Comparative Methods: Learning from Trees*. ISBN: 978-1719584463. Free PDF (or buy a hard-copy on Amazon.com).  
-2. Revell, L. J. and L. J. Harmon. 2022. *Phylogenetic Comparative Methods in R*. Princeton University Press, Princeton NJ. (Recommended.)  
-3. Yang, Z. 2015. *Molecular Evolution: A Statistical Approach*. Oxford University Press, Oxford UK. (Recommended.)  
+- **Organizers:** Dr. Tali Berman ([taliber@telhai.ac.il](mailto:taliber@telhai.ac.il)) and Avi Eliyahu ([avi.eliyahu9@gmail.com](mailto:avieliyahu9@gmail.com))
+- **Meeting time & place:** Nov. 3rd to 7th, Hula Research Center, Israel
 
 ---
 
