@@ -31,5 +31,36 @@ Unit 2: Brownian motion, phylogenetic regression, & phylogenetic signal
   - [R code]()
   - [Challenge problem 2A]()
   - [R code]()
+  - [Challenge problem 2B]()
+  
+Unit 3: Discrete character evolution
+  - [Lecture slides]()
+  - [R code]()
+  - [Challenge problem 3A]()
+  - [Challenge problem 3B]()
+  
+Unit 4: Ancestral state reconstruction
+  - [Lecture slides]()
+  - [R code]()
+  - [Challenge problem 4]()
+
+Unit 5: Other topics in phylogenetic comparative biology
+  - [Lecture slides]()
+  - [R code]()
+  
+Unit 6: Phylogenetic community ecology & biogeography
+  - [Lectures slides]()
+  - [R code]()
+  - [Challenge problem 6]()
+  
+Unit 7: Speciation & extinction
+  - [Lectures slides]()
+  - [R code]()
+  - [Challenge problem 7]()
+  - [R code]()
+  
+Unit 8: Visualizing phylogenetic trees & data
+  - [R code]()
+  - [Challenge problem 8]()
 
 ---
