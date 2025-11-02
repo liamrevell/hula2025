@@ -14,22 +14,22 @@ title: Unlocking the Potential of Phylogenetic Comparative Methods in Ecology, A
 
 ## Course Description
 
-This is where we'll put up a brief workshop description...
+Phylogenetic trees are a type of graph used to represent the historical of biological entities connected via a history of common descent with branching. Though originally developed in evolutionary biology and systematics, phylogenies now have broad practical utility across numerous fields of science, ranging from ecology, to sociolinguistics, and from virology, to cancer biology. The focus of this workshop is developing theoretical knowledge and applied skills in phylogenetic biology, particularly phylogenetic comparative methods, focusing on methods implemented for the R statistical computing environment.
 
 ---
 
 ## Data files, R computer code, and Slideshow presentation files
 
 Unit 1: Basics of working with trees in R. 
-    - [Lecture slides]()
-    - [R code]()
-    - [Challenge problem 1]()
-    - [R code]()
+  - [Lecture slides]()
+  - [R code]()
+  - [Challenge problem 1]()
+  - [R code]()
     
 Unit 2: Brownian motion, phylogenetic regression, & phylogenetic signal
-    - [Lecture slides]()
-    - [R code]()
-    - [Challenge problem 2A]()
-    - [R code]()
+  - [Lecture slides]()
+  - [R code]()
+  - [Challenge problem 2A]()
+  - [R code]()
 
 ---
