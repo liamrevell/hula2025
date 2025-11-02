@@ -14,7 +14,7 @@ title: Unlocking the Potential of Phylogenetic Comparative Methods in Ecology, A
 
 ## Course Description
 
-Phylogenetic trees are a type of graph used to represent the historical of biological entities connected via a history of common descent with branching. Though originally developed in evolutionary biology and systematics, phylogenies now have broad practical utility across numerous fields of science, ranging from ecology, to sociolinguistics, and from virology, to cancer biology. The focus of this workshop is developing theoretical knowledge and applied skills in phylogenetic biology, particularly phylogenetic comparative methods, focusing on methods implemented for the R statistical computing environment.
+Phylogenetic trees are a type of graph used to represent the relationships of biological entities connected via a history of common descent with branching. Though originally developed in evolutionary biology and systematics, phylogenies now have broad practical utility across numerous fields of science, ranging from community ecology to sociolinguistics, from virology to agriculture, and from infectious disease epidemiology to cancer biology, among many other disciplines. The focus of this workshop is developing theoretical knowledge and applied skills in phylogenetic biology, particularly phylogenetic comparative methods, focusing on methods implemented for the R statistical computing environment.
 
 ---
 
