@@ -111,3 +111,4 @@ png(filename="my-anolis-tree.png",width=7,height=7,
   units="in",res=600)
 plotTree(anolis_tree,type="fan",lwd=1,fsize=0.6)
 dev.off()
+
