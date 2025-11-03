@@ -22,12 +22,13 @@ Phylogenetic trees are a type of graph used to represent the relationships of bi
 
 Unit 1: Basics of working with trees in R. 
   - [Lecture slides](https://docs.google.com/presentation/d/1Vn3b98uBSAzuexHn3OCQBDeIU5z9ZXj5aFhTPNSo01k/edit?usp=sharing)
-  - [anole.data.csv](data/anole.data.csv)
-  - [Anolis.tre](data/Anolis.tre)
-  - [ecomorph.csv](data/ecomorph.csv)
-  - [phel.csv](data/phel.csv)
-  - [phel.phy](data/phel.phy)
   - [R code]()
+  - data files:
+    - [anole.data.csv](data/anole.data.csv)
+    - [Anolis.tre](data/Anolis.tre)
+    - [ecomorph.csv](data/ecomorph.csv)
+    - [phel.csv](data/phel.csv)
+    - [phel.phy](data/phel.phy)
   - [Challenge problem]()
     
 Unit 2: Brownian motion, phylogenetic regression, & phylogenetic signal
