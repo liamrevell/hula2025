@@ -30,7 +30,7 @@ Unit 1: Basics of working with trees in R.
     - [ecomorph.csv](data/ecomorph.csv)
     - [phel.csv](data/phel.csv)
     - [phel.phy](data/phel.phy)
-  - [Challenge problem]()
+  - [Challenge problem](ch/challenge.html)
     
 Unit 2: Brownian motion, phylogenetic regression, & phylogenetic signal
   - [Lecture slides](https://docs.google.com/presentation/d/1znR70LiTW_666brwFIIlJJ1ErD6_0zpEPu7SuutvUe4/edit?usp=sharing)
