@@ -2,7 +2,7 @@
 title: Challenge Problem 1
 ---
   
-<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="../../assets/style.css">
     
 # Challenge problem 1
   
