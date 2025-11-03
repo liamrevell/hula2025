@@ -21,40 +21,41 @@ Phylogenetic trees are a type of graph used to represent the relationships of bi
 ## Data files, R computer code, and Slideshow presentation files
 
 Unit 1: Basics of working with trees in R. 
-  - [Lecture slides]()
+  - [Lecture slides](https://docs.google.com/presentation/d/1Vn3b98uBSAzuexHn3OCQBDeIU5z9ZXj5aFhTPNSo01k/edit?usp=sharing)
   - [R code]()
   - [Challenge problem 1]()
   - [R code]()
     
 Unit 2: Brownian motion, phylogenetic regression, & phylogenetic signal
-  - [Lecture slides]()
+  - [Lecture slides](https://docs.google.com/presentation/d/1znR70LiTW_666brwFIIlJJ1ErD6_0zpEPu7SuutvUe4/edit?usp=sharing)
   - [R code]()
   - [Challenge problem 2A]()
   - [R code]()
   - [Challenge problem 2B]()
   
 Unit 3: Discrete character evolution
-  - [Lecture slides]()
+  - [Lecture slides](https://docs.google.com/presentation/d/1BE_Y7NB9nZjoG8i5gW2v-K7Sp-cp8LwYgzV8ZiWwjEQ/edit?usp=sharing)
   - [R code]()
   - [Challenge problem 3A]()
   - [Challenge problem 3B]()
   
 Unit 4: Ancestral state reconstruction
-  - [Lecture slides]()
+  - [Lecture slides](https://docs.google.com/presentation/d/1PjfFfVUAv7Tdf9YKDJTGNj2hr7FzeyWJwowqErBSfG8/edit?usp=sharing)
   - [R code]()
   - [Challenge problem 4]()
 
 Unit 5: Other topics in phylogenetic comparative biology
-  - [Lecture slides]()
+  - [Lecture slides](https://docs.google.com/presentation/d/12pYY6-6cEaoDWInubPRKjRvAlFqRxsIVTuGNxJlfZSw/edit?usp=sharing)
   - [R code]()
   
-Unit 6: Phylogenetic community ecology & biogeography
-  - [Lectures slides]()
+Unit 6: Speciation & extinction
+  - [Lectures slides](https://docs.google.com/presentation/d/133stqTgjOeEe5Y-gHvOCopct9doMOYpzvghp9zbBP0w/edit?usp=sharing)
   - [R code]()
   - [Challenge problem 6]()
+  - [R code]()
   
-Unit 7: Speciation & extinction
-  - [Lectures slides]()
+Unit 7: Phylogenetic community ecology 
+  - [Lectures slides](https://docs.google.com/presentation/d/1QToiBp_BBYlWxN6hgMLU2wREtcC57jpuUNPZFrVkzCs/edit?usp=sharing)
   - [R code]()
   - [Challenge problem 7]()
   - [R code]()
