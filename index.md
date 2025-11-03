@@ -22,7 +22,8 @@ Phylogenetic trees are a type of graph used to represent the relationships of bi
 
 Unit 1: Basics of working with trees in R. 
   - [Lecture slides](https://docs.google.com/presentation/d/1Vn3b98uBSAzuexHn3OCQBDeIU5z9ZXj5aFhTPNSo01k/edit?usp=sharing)
-  - [R code](ex/morning-intro-to-R-phylogenetics.R)
+  - [R code part 1](ex/morning-intro-to-R-phylogenetics.R)
+  - [R code part 2](ex/intro-to-PCMs.R)
   - data files:
     - [anole.data.csv](data/anole.data.csv)
     - [Anolis.tre](data/Anolis.tre)
