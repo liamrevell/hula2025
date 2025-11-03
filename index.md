@@ -30,14 +30,12 @@ Unit 1: Basics of working with trees in R.
     - [ecomorph.csv](data/ecomorph.csv)
     - [phel.csv](data/phel.csv)
     - [phel.phy](data/phel.phy)
-  - [Challenge problem](ch/one/)
+  - [Challenge problem 1](ch/one/)
     
 Unit 2: Brownian motion, phylogenetic regression, & phylogenetic signal
   - [Lecture slides](https://docs.google.com/presentation/d/1znR70LiTW_666brwFIIlJJ1ErD6_0zpEPu7SuutvUe4/edit?usp=sharing)
-  - [R code]()
-  - [Challenge problem 2A]()
-  - [R code]()
-  - [Challenge problem 2B]()
+  - [R code](ex/BM-contrasts-and-GLS.R)
+  - [Challenge problem 2]()
   
 Unit 3: Discrete character evolution
   - [Lecture slides](https://docs.google.com/presentation/d/1BE_Y7NB9nZjoG8i5gW2v-K7Sp-cp8LwYgzV8ZiWwjEQ/edit?usp=sharing)
