@@ -37,6 +37,12 @@ Unit 2: Brownian motion, phylogenetic regression, & phylogenetic signal
   - [R code](ex/BM-contrasts-and-GLS.R)
   - [Challenge problem 2]()
   
+Unit 2.5: Bird ringing data, VertLife, and the big bird tree
+  - data files:
+    - [big-bird-tree.nex](data/big-bird-tree.nex)
+    - [bird-ringing-data.csv](data/bird-ringing-data.csv)
+  - [R code]()
+  
 Unit 3: Discrete character evolution
   - [Lecture slides](https://docs.google.com/presentation/d/1BE_Y7NB9nZjoG8i5gW2v-K7Sp-cp8LwYgzV8ZiWwjEQ/edit?usp=sharing)
   - [R code]()
