@@ -46,6 +46,9 @@ Unit 2.5: Bird ringing data, VertLife, and the big bird tree
   
 Unit 3: Discrete character evolution
   - [Lecture slides](https://docs.google.com/presentation/d/1BE_Y7NB9nZjoG8i5gW2v-K7Sp-cp8LwYgzV8ZiWwjEQ/edit?usp=sharing)
+  - data files:
+    - [brandley_table.csv](data/brandley_table.csv)
+    - [squamate.tre](data/squamate.tre)
   - [R code]()
   - [Challenge problem 3A]()
   - [Challenge problem 3B]()
