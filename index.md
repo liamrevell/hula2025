@@ -42,6 +42,7 @@ Unit 2.5: Bird ringing data, VertLife, and the big bird tree
     - [big-bird-tree.nex](data/big-bird-tree.nex)
     - [bird-ringing-data.csv](data/bird-ringing-data.csv)
   - [R code part 1](ex/big-bird-tree-cleaning.R)
+  - [R code part 2](ex/bird-data-analysis.R) 
   
 Unit 3: Discrete character evolution
   - [Lecture slides](https://docs.google.com/presentation/d/1BE_Y7NB9nZjoG8i5gW2v-K7Sp-cp8LwYgzV8ZiWwjEQ/edit?usp=sharing)
