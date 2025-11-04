@@ -49,10 +49,8 @@ Unit 3: Discrete character evolution
   - data files:
     - [brandley_table.csv](data/brandley_table.csv)
     - [squamate.tre](data/squamate.tre)
-  - [R code]()
-  - [Challenge problem 3A]()
-  - [Challenge problem 3B]()
-  
+  - [R code](ex/mk-model.R)
+}
 Unit 4: Ancestral state reconstruction
   - [Lecture slides](https://docs.google.com/presentation/d/1PjfFfVUAv7Tdf9YKDJTGNj2hr7FzeyWJwowqErBSfG8/edit?usp=sharing)
   - [R code]()
