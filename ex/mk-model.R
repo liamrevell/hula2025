@@ -138,3 +138,101 @@ lossonly_multirate
 
 ## plot the model
 plot(lossonly_multirate,show.zeros=FALSE)
+
+## let's imagine a gain-only 
+design_matrix<-matrix(c(
+  0,1,0,0,0,0,
+  0,0,2,0,0,0,
+  0,0,0,3,0,0,
+  0,0,0,0,4,0,
+  0,0,0,0,0,5,
+  0,0,0,0,0,0),6,6,byrow=TRUE)
+rownames(design_matrix)<-
+  colnames(design_matrix)<-0:5
+design_matrix
+
+## don't do this
+## let's make an ER matrix (just to see the equivalence)
+er_matrix<-matrix(1,6,6)
+diag(er_matrix)<-0
+er_matrix
+fitMk(squamate_tree,fore_digits,model=er_matrix,
+  pi="fitzjohn")
+
+## gain-only model
+gainonly_multirate<-fitMk(squamate_tree,
+  fore_digits,model=design_matrix,pi="fitzjohn",
+  rand_start=TRUE)
+
+## loss-only + developmental jump
+design_matrix<-matrix(c(
+  0,0,0,0,0,0,
+  1,0,0,0,0,0,
+  2,3,0,0,0,0,
+  2,0,4,0,0,0,
+  2,0,0,5,0,0,
+  2,0,0,0,6,0),6,6,byrow=TRUE,
+  dimnames=list(0:5,0:5))
+design_matrix
+ 
+## fit our lossdevjump model
+lossdevjump<-fitMk(squamate_tree,
+  fore_digits,model=design_matrix,
+  pi="fitzjohn",rand_start=TRUE)
+lossdevjump
+
+## often this model won't converge to the MLE
+
+## running multiple optimization iterations in parallel
+library(doParallel)
+library(foreach)
+
+## detect number of computer cores
+detectCores()
+
+## set number of optimization iterations
+niter<-10
+
+## set number of cores (should be < detectCores value)
+ncores<-10
+
+## create cluster
+mc<-makeCluster(ncores,type="PSOCK")
+registerDoParallel(cl=mc)
+
+## run our optimization iterations in parallel
+devjump_fits<-foreach(i=1:niter)%dopar%{
+  phytools::fitMk(squamate_tree,
+    fore_digits,model=design_matrix,
+    pi="fitzjohn",rand_start=TRUE)
+}
+
+## this is our set of all fitted models
+devjump_fits
+
+## this is just one log-likelihood
+logLik(er_squamates)
+
+## apply across our set of optimizations
+lnL<-sapply(devjump_fits,logLik)
+lnL
+
+## how does it compare to our multi-rate loss-only model?
+lossonly_multirate
+
+## this is our best model from our set
+## (probably our true MLE)
+best_lossdevjump<-devjump_fits[[which.max(lnL)]]
+best_lossdevjump
+
+## let's plot our fitted model
+plot(best_lossdevjump,width=TRUE,color=TRUE,
+  show.zeros=FALSE)
+
+## compare our set of four fitted models
+anova(er_squamates,lossonly_multirate,
+  gainonly_multirate,best_lossdevjump)
+
+## never forget to stop your cluster when you're
+## done with it!
+stopCluster(mc)
