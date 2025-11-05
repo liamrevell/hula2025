@@ -65,6 +65,14 @@ Unit 4: Ancestral state reconstruction
 
 Unit 5: Other topics in phylogenetic comparative biology
   - [Lecture slides](https://docs.google.com/presentation/d/12pYY6-6cEaoDWInubPRKjRvAlFqRxsIVTuGNxJlfZSw/edit?usp=sharing)
+  - data files:
+    - [bonyfish.csv](data/bonyfish.csv)
+    - [bonyfish.tre](data/bonyfish.tre)
+    - [Liolaemidae.data.csv](data/Liolaemidae.data.csv)
+    - [Liolaemidae.MCC.nex](data/Liolaemidae.MCC.nex)
+    - [lizard_spines.csv](data/lizard_tree.nex)
+    - [Mycalesina_habitat.csv](data/Mycalesina_habitat.csv)
+    - [Mycalesina_phylogeny.nex](data/Mycalesina_phylogeny.nex)
   - [R code]()
   
 Unit 6: Speciation & extinction
