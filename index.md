@@ -60,8 +60,8 @@ Unit 4: Ancestral state reconstruction
     - [lizard_tree.nex](data/lizard_tree.nex)
     - [Onstein_etal.tre](data/Onstein_etal.tre)
     - [trait_data_Onstein_et_al.csv](data/trait_data_Onstein_et_al.csv)
-  - [R code]()
-  - [Challenge problem 4]()
+  - [R code part 1](ex/ASR-continuous-characters.R)
+  - [R code part 2](ex/ASR-discrete-characters.R)
 
 Unit 5: Other topics in phylogenetic comparative biology
   - [Lecture slides](https://docs.google.com/presentation/d/12pYY6-6cEaoDWInubPRKjRvAlFqRxsIVTuGNxJlfZSw/edit?usp=sharing)
