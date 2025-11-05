@@ -53,6 +53,13 @@ Unit 3: Discrete character evolution
   
 Unit 4: Ancestral state reconstruction
   - [Lecture slides](https://docs.google.com/presentation/d/1PjfFfVUAv7Tdf9YKDJTGNj2hr7FzeyWJwowqErBSfG8/edit?usp=sharing)
+  - data files:
+    - [conraua_phylogeny.tre](data/conraua_phylogeny.tre)
+    - [conraua_svl.csv](data/conraua_svl.csv)
+    - [lizard_spines.csv](data/lizard_spines.csv)
+    - [lizard_tree.nex](data/lizard_tree.nex)
+    - [Onstein_etal.tre](data/Onstein_etal.tre)
+    - [trait_data_Onstein_et_al.csv](data/trait_data_Onstein_et_al.csv)
   - [R code]()
   - [Challenge problem 4]()
 
