@@ -73,7 +73,7 @@ Unit 5: Other topics in phylogenetic comparative biology
     - [lizard_spines.csv](data/lizard_tree.nex)
     - [Mycalesina_habitat.csv](data/Mycalesina_habitat.csv)
     - [Mycalesina_phylogeny.nex](data/Mycalesina_phylogeny.nex)
-  - [R code]()
+  - [R code](ex/pagel94-model.R)
   
 Unit 6: Speciation & extinction
   - [Lectures slides](https://docs.google.com/presentation/d/133stqTgjOeEe5Y-gHvOCopct9doMOYpzvghp9zbBP0w/edit?usp=sharing)
