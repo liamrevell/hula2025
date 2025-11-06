@@ -84,7 +84,7 @@ Unit 6: Speciation & extinction
     - [grunts.csv](data/grunts.csv)
     - [grunts.phy](data/grunts.phy)
     - [salamanders.nex](data/salamanders.nex)
-  - [R code]()
+  - [R code](ex/diversification-analysis.R)
   
 Unit 7: Phylogenetic community ecology 
   - [Lectures slides](https://docs.google.com/presentation/d/1QToiBp_BBYlWxN6hgMLU2wREtcC57jpuUNPZFrVkzCs/edit?usp=sharing)
