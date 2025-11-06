@@ -78,8 +78,12 @@ Unit 5: Other topics in phylogenetic comparative biology
   
 Unit 6: Speciation & extinction
   - [Lectures slides](https://docs.google.com/presentation/d/133stqTgjOeEe5Y-gHvOCopct9doMOYpzvghp9zbBP0w/edit?usp=sharing)
-  - [R code]()
-  - [Challenge problem 6]()
+  - data files:
+    - [10kTrees_Primates.nex](data/10kTrees_Primates.nex)
+    - [elapidae.nex](data/elapidae.nex)
+    - [grunts.csv](data/grunts.csv)
+    - [grunts.phy](data/grunts.phy)
+    - [salamanders.nex](data/salamanders.nex)
   - [R code]()
   
 Unit 7: Phylogenetic community ecology 
