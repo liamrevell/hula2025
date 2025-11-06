@@ -88,6 +88,9 @@ Unit 6: Speciation & extinction
   
 Unit 7: Phylogenetic community ecology 
   - [Lectures slides](https://docs.google.com/presentation/d/1QToiBp_BBYlWxN6hgMLU2wREtcC57jpuUNPZFrVkzCs/edit?usp=sharing)
+  - data files:
+    - [SJ_ComMatrix.csv](data/SJ_ComMatrix.csv)
+    - [SJtree.phy](data/SJtree.phy)
   - [R code]()
   - [Challenge problem 7]()
   - [R code]()
