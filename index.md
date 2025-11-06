@@ -92,8 +92,6 @@ Unit 7: Phylogenetic community ecology
     - [SJ_ComMatrix.csv](data/SJ_ComMatrix.csv)
     - [SJtree.phy](data/SJtree.phy)
   - [R code]()
-  - [Challenge problem 7]()
-  - [R code]()
   
 Unit 8: Visualizing phylogenetic trees & data
   - [R code]()
