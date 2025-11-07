@@ -94,7 +94,7 @@ Unit 7: Phylogenetic community ecology
   - [R code](ex/phylogenetic-community-ecology.R)
   
 Unit 8: Visualizing phylogenetic trees & data
-  - [R code]()
+  - [R code](ex/custom-phylogeny-plotting.R)
   - data file:
     - [vertebrate.tre](data/vertebrate.tre)
 
